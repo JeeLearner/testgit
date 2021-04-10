@@ -1,5 +1,8 @@
 cherry 1
 cherry 1
+<<<<<<< HEAD
 cherry 2
 rebase
 rebase +1
+=======
+>>>>>>> ideatemp

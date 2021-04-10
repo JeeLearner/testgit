@@ -1,5 +1,9 @@
 <component name="ProjectCodeStyleConfiguration">
   <code_scheme name="Project" version="173">
+<<<<<<< HEAD
+=======
+    <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+>>>>>>> ideatemp
     <JavaCodeStyleSettings>
       <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
     </JavaCodeStyleSettings>
