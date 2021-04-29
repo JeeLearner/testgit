@@ -1,1 +1,1 @@
-promo init
+promo 1
