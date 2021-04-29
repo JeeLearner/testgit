@@ -1,1 +1,2 @@
-promo 1
+promo init
+promo pass
