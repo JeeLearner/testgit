@@ -1,2 +1,1 @@
 promo init
-promo pass
